@@ -11,4 +11,9 @@ namespace Vjezba1_MJ
     }
 }
 
+<<<<<<< HEAD
 //new stuff
+=======
+
+//luka commented this
+>>>>>>> ec8796db9b2d969d368f7c46362bd498489eb100
